@@ -75,7 +75,7 @@ estugrow/
 
 ## Autor
 
-Rodrigo Acosta
+mirko Acosta
 
 ---
 
