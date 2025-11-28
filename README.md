@@ -22,7 +22,7 @@ Este proyecto es una aplicación móvil desarrollada en React Native con Expo y 
 
 1. Clona el repositorio:
 	```bash
-	git clone https://github.com/acostaRodrigo/tif_reactNative_Acosta.git
+git clone : https://github.com/mirko2d/trabajo_practico
 	cd estugrow
 	```
 2. Instala las dependencias:
